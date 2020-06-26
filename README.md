@@ -35,7 +35,7 @@ This document is for the basic setup steps after doing a 'Minimal Install' of Ce
    
 1. Configure sshd:
 
-    These sshd settings are mostly personal preference, so have a close looking before applying, especially
+    These sshd settings are mostly personal preference, so have a close look before applying, especially
     the `AllowUsers` line, as you'll need to put in your username.
     
     ```shell script
